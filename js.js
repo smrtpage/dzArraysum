@@ -3,8 +3,9 @@ let massive = [];
 
 for(let i = 0; i < zapyt; i++){
     massive.push(Math.floor(Math.random() * 100)); 
-    console.log(massive);
 }
+
+console.log(massive);
 
 
 
